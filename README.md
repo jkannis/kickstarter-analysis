@@ -8,10 +8,10 @@ The client for this analysis had a moderately successful fundraiser for a theate
 This analysis was performed on the provided dataset using Excel. The data was sorted and filtered based on the client requests. There were challenges, such as extensive data that was unrelated to the client concern, as well as data that was provided in formats that required mainipulation and separation before analysis could begin.
 ### Analysis of Outcomes Based on Launch Date
 The first snapshot of information is Outcomes Based on Launch Date to help the client determine the best timeframe to begin future fundraising projects.
-/blob/main/Theater_Outcomes_vs_Launch.png
+![Outcomes Based on Launch Date](https://github.com/jkannis/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
 The second snapshot of information is Outcomes Based on Goals to help the client determine a realistic fundraising goal for a successful project.
-/blob/main/Outcomes_vs_Goals.png
+![Outcomes Based on Goals](https://github.com/jkannis/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 There were challenges related to preparing this data for analysis. Calculating the dates from the timestamp was not overly difficult with the functions provided, but could skew results if not handled properly. For example, if the date was not calculated properly from the timestamp then the year functionality could potentially be way off, which in turn would alter the chart used for providing analysis to the client.
 
